@@ -2,7 +2,9 @@
 
 **PlantVelo** is a plant-specific RNA velocity analysis toolkit built on top of [velocyto.py](https://github.com/velocyto-team/velocyto.py). It extends the standard two-state splicing model (unspliced → spliced) with an explicit **intron retention (IR)** state, enabling a three-state kinetic framework tailored to the biology of plant cells.
 
----
+<p align="center">
+  <img src="www/logic.png" alt="PlantVelo IR logic" width="300">
+</p>
 
 ## Background
 
